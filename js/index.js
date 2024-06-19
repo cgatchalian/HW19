@@ -1,4 +1,3 @@
-console.log("Your index.js file is loaded correctly!");
 const observer = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
         console.log(entry)
