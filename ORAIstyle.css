@@ -4,17 +4,6 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-color: #01394C;
 }
-@keyframes slideinLeft {
-    from { transform: translateX(-300px); }
-    to { transform: translateX(0); }
-}
-.slideinLeft {
-    visibility: hidden; /* Hide by default */
-}
-.start {
-    animation: slideInLeft 1s ease-in forwards; /* Use 'forwards' to maintain the final state after the animation */
-    visibility: visible; /* Make element visible before starting the animation */
-}
 * {
     box-sizing: border-box;
     margin: 20;
@@ -23,6 +12,20 @@ body {
     color: #F1F1F1;
 }
 
+section {
+    display: grid;
+    align-content: center;
+    min-height: 100vh;
+}
+
+.hidden {
+ opacity: 0;
+ transition: all 1s;
+}
+
+.show {
+ opacity: 1;
+}
 header {
     display: flex;
     align-items: center;
