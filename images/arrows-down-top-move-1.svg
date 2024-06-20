@@ -1,0 +1,32 @@
+<svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="13" fill="#F5F5F5"/>
+<g id="Components">
+<path d="M-1734 -1443C-1734 -1444.1 -1733.1 -1445 -1732 -1445H5094C5095.1 -1445 5096 -1444.1 5096 -1443V1863C5096 1864.1 5095.1 1865 5094 1865H-1732C-1733.1 1865 -1734 1864.1 -1734 1863V-1443Z" fill="#01506C"/>
+<path d="M-1732 -1444H5094V-1446H-1732V-1444ZM5095 -1443V1863H5097V-1443H5095ZM5094 1864H-1732V1866H5094V1864ZM-1733 1863V-1443H-1735V1863H-1733ZM-1732 1864C-1732.55 1864 -1733 1863.55 -1733 1863H-1735C-1735 1864.66 -1733.66 1866 -1732 1866V1864ZM5095 1863C5095 1863.55 5094.55 1864 5094 1864V1866C5095.66 1866 5097 1864.66 5097 1863H5095ZM5094 -1444C5094.55 -1444 5095 -1443.55 5095 -1443H5097C5097 -1444.66 5095.66 -1446 5094 -1446V-1444ZM-1732 -1446C-1733.66 -1446 -1735 -1444.66 -1735 -1443H-1733C-1733 -1443.55 -1732.55 -1444 -1732 -1444V-1446Z" fill="black"/>
+<g id="web-footer">
+<g id="Footer 1 Dark" clip-path="url(#clip0_0_1)">
+<rect id="Background" x="-1177" y="-194" width="1440" height="593" fill="#809196"/>
+<g id="Footer UI">
+<g id="Subscribe">
+<rect id="Rectangle 2" opacity="0.1" x="-258" y="-94" width="338" height="258" rx="10" fill="#2F484F"/>
+<g id="Text Field">
+<rect id="Fill" x="-215.25" y="-18.25" width="246.5" height="48.5" rx="5.25" fill="white" stroke="#E7E8F2" stroke-width="1.5"/>
+<g id="Fill_2">
+<path d="M-18 -19H26C29.3137 -19 32 -16.3137 32 -13V25C32 28.3137 29.3137 31 26 31H-18V-19Z" fill="#01394C"/>
+<path d="M-18 -19H26C29.3137 -19 32 -16.3137 32 -13V25C32 28.3137 29.3137 31 26 31H-18V-19Z" stroke="#D6D6D6"/>
+</g>
+<g id="arrows-down-top-move-1">
+<path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M9.23347 13L14.8898 7.42846C15.4106 6.91519 15.4106 6.08324 14.8898 5.57154L9.23347 0L7.34788 1.8581L10.7279 5.18669H0L0 7.81292H10.7279L7.34788 11.1427L9.23347 13Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="593" fill="white" transform="translate(-1177 -194)"/>
+</clipPath>
+</defs>
+</svg>
